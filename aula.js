@@ -50,7 +50,7 @@ const salario_base = 1.832;
 const aliquota = 0.15;
 const valor_fiscal = salario_base - (salario_base * aliquota)
 
-console.log ('O valor final do ímposto de renda é ' + salario_base.toFixed(3))
+console.log ('O valor final do ímposto de renda é ' + valor_fiscal.toFixed(3))
 
 
 reais = 500
